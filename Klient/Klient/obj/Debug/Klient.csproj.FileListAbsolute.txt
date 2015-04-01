@@ -1,0 +1,29 @@
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\bin\Debug\Klient.exe.config
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\bin\Debug\Klient.exe
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\bin\Debug\Klient.pdb
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.frmKlient.resources
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.exe
+C:\Users\Adrian\Desktop\Komunikator\Klient\Klient\obj\Debug\Klient.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\bin\Debug\Klient.exe.config
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.exe
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\bin\Debug\Klient.exe
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\bin\Debug\Klient.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.frmKlient.resources
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.Start.resources
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.Properties.Resources.resources
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Computer network\Komunikator\Klient\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.exe
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.pdb
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\bin\Debug\Klient.exe
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\bin\Debug\Klient.pdb
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.frmKlient.resources
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.Start.resources
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.Properties.Resources.resources
+C:\Users\Kml\Desktop\Komunikator2\Komunikator\Klient\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
